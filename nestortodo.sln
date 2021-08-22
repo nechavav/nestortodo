@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nestortodo.Common", "nestortodo.Common\nestortodo.Common.csproj", "{4AD85623-742A-4EB4-BFFE-CD0E02299877}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "nestortodo.Common", "nestortodo.Common\nestortodo.Common.csproj", "{4AD85623-742A-4EB4-BFFE-CD0E02299877}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nestortodo.Functions", "nestortodo.Functions\nestortodo.Functions.csproj", "{11942F4F-253C-4046-968B-A141D00CF619}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "nestortodo.Functions", "nestortodo.Functions\nestortodo.Functions.csproj", "{11942F4F-253C-4046-968B-A141D00CF619}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nestortodo.Test", "nestortodo.Test\nestortodo.Test.csproj", "{FD8A342B-2600-43A9-AA63-995CDDC485D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "nestortodo.Test", "nestortodo.Test\nestortodo.Test.csproj", "{FD8A342B-2600-43A9-AA63-995CDDC485D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
